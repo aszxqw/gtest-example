@@ -14,4 +14,4 @@ make && ./test.run
 
 wuyanyi09@foxmail.com
 
-[gtest-blog]:http://aszxqw.github.io/jekyll/update/2014/04/01/gtest-yuanma-pouxi.html
+[gtest-blog]:http://www.aszxqw.com/work/2014/04/01/gtest-yuanma-pouxi.html
